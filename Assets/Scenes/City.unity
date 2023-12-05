@@ -2302,7 +2302,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f52381fd0edb36d438bd2b39679ba2bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 30.88
+  horizontalAxis: 0
+  speed: 100.99
   verticalAxis: 0
 --- !u!4 &1155326387 stripped
 Transform:
@@ -2332,7 +2333,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 0
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
